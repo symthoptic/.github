@@ -2,5 +2,3 @@
    <p align="center"> 
 
   <a href="https://lynixsrv.online"><img alt="Website" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Website&up_color=blue&up_message=Online&url=https://lynixsrv.online"></a>
-
-  [![GitHub Repos](https://img.shields.io/github/repos/lynixlabs?style=social)](https://github.com/lynixlabs?tab=repositories)
