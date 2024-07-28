@@ -15,4 +15,5 @@ Remember that our repositories with **MIT LICENSE** can be re-build and distribu
 
 # Verified Domains
 lynixsrv.online
+
 lynix.tech
