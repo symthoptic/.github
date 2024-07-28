@@ -3,3 +3,16 @@
 
   <a href="https://lynixsrv.online"><img alt="Website" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Website&up_color=blue&up_message=Online&url=https://lynix.tech"></a>
   ![Discord](https://img.shields.io/discord/1264100847839739965?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
+
+# Info
+Welcome to official lynix github. Here you can find many projects made by us!. Lynix is an tech/hosting company owned by Lynix Team!
+
+# Support
+For support join our [Discord](https://discord.gg/x494fQjhum/) and make a ticket or email us (soon)
+
+# License
+Remember that our repositories with **MIT LICENSE** can be re-build and distributed and if their is any other license so you cant do this!
+
+# Verified Domains
+lynixsrv.online
+lynix.tech
