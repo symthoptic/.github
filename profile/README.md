@@ -2,7 +2,7 @@
    <p align="center"> 
 
   <a href="https://lynixsrv.online"><img alt="Website" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Website&up_color=blue&up_message=Online&url=https://lynix.tech"></a>
-  ![Discord](https://img.shields.io/discord/1264100847839739965?label=Discord&logo=Discord&logoColor=white&style=for-the-badge)
+   [![Discord](https://img.shields.io/discord/682342331206074373?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/h8TM9M7FTe)
 
 # Info
 Welcome to official lynix github. Here you can find many projects made by us!. Lynix is an tech/hosting company owned by Lynix Team!
