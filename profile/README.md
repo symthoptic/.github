@@ -10,15 +10,10 @@
  </p>
  
 # Info
-Welcome to official lynix github. Here you can find many projects made by us!. Lynix is an tech/hosting company owned by Lynix Team!
+Welcome to official lynix github. Here you can find many projects made by us!. Lynix is an tech/hosting company owned by Ever Industries Inc.
 
 # Support
 For support join our [Discord](https://discord.gg/x494fQjhum/) and make a ticket or email us (soon)
 
 # License
 Remember that our repositories with **MIT LICENSE** can be re-build and distributed and if their is any other license so you cant do this!
-
-# Verified Domains
-lynixsrv.online
-
-lynix.tech
