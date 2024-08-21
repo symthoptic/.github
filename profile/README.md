@@ -4,7 +4,7 @@
 
   <p align="center">
 
-  <a href="https://lynixsrv.online"><img alt="Website" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Website&up_color=blue&up_message=Online&url=https://lynixsrv.online"></a>
+  <a href="https://lynix.tech"><img alt="Website" src="https://img.shields.io/website?down_color=lightred&down_message=Offline&label=Website&up_color=blue&up_message=Online&url=https://lynix.tech"></a>
  <a href="https://discord.com/invite/h8TM9M7FTe"><img src="https://img.shields.io/discord/1264100847839739965?color=green&label=Discord&logo=HolaClient&logoColor=blue" alt="discord" /></a>
 <img src="https://komarev.com/ghpvc/?username=OpenSourceLynix&color=red">
  </p>
