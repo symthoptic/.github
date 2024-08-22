@@ -17,3 +17,5 @@ For support join our [Discord](https://discord.gg/x494fQjhum/) and make a ticket
 
 # License
 Remember that our repositories with **MIT LICENSE** can be re-build and distributed and if their is any other license so you cant do this!
+
+Copyright 2021 - 2024, Lynix LLC
