@@ -11,4 +11,4 @@ Vist [opensource.lynix.net](https://opensource.lynix.net/) for more info!
 
 ----
 
-All projects made by Lynix are disturbed under Ever Industries
+                2021 - 2024 Lynix,LLC
