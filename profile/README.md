@@ -10,4 +10,4 @@ Start using our open source projects without any cost these projects are always 
 Vist [opensource.lynix.net](https://opensource.lynix.net/) for more info!
 
 ---
-2021 - 2024 Lynix,LLC
+2024 Lynix Corporation
