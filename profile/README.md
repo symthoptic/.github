@@ -4,10 +4,10 @@
 
 Start using our open source projects without any cost these projects are always free on github!
 
-* [Home Page](https://www.lynix.net/)
-* [Open Source Policy](https://opensource.lynix.net/policy)
+* [Home Page](https://www.symthoptic.com/)
+* [Open Source Policy](https://opensource.symthoptic.com/policy)
 
-Vist [opensource.lynix.net](https://opensource.lynix.net/) for more info!
+Vist [opensource.symthoptic.com](https://opensource.symthoptic.com/) for more info!
 
 ---
-2024 Lynix Corporation
+2024 Symthoptic, Inc
