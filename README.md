@@ -1,2 +1,2 @@
-# Lynix
-Default Community Health Files for the Lynix organization on GitHub
+# Symthoptic
+Default Community Health Files for the Symthoptic organization on GitHub
